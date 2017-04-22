@@ -1,0 +1,15 @@
+body {
+  padding: 20px;
+}
+
+button {
+  line-height: 60px;
+  font-weight: bold;
+  background: aliceblue;
+  border: 1px solid red;
+}
+
+button:hover {
+  background: lightblue;
+  border: 1px solid pink;
+}
